@@ -1,0 +1,19 @@
+{
+  "name": "freakout",
+  "version": "0.0.1",
+  "description": "freakout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonirAbuHilal/freakout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonirAbuHilal/freakout/issues"
+  },
+  "homepage": "https://github.com/MonirAbuHilal/freakout#readme"
+}
